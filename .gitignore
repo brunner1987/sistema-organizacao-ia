@@ -1,0 +1,28 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*~
+
+# Logs
+*.log
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Pastas de cache
+__pycache__/
+.cache/
+
+# Arquivos sensíveis (se houver)
+*.key
+*.pem
+secrets/
+
+# Arquivos específicos do projeto
+00_chats_deepseek/nao_liberados/
